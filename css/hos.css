@@ -1,0 +1,3 @@
+
+@import url("hospital.css") screen and (min-width:1025px);
+@import url("m_hospital.css") screen and (max-width:1024px);
